@@ -1,4 +1,4 @@
-//CrowdFunding contract showing rejector pattern
+//CrowdFunding contract, rejector pattern
 
 contract Crowdfunding {
 
